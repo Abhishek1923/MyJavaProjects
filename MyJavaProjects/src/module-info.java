@@ -1,0 +1,2 @@
+module MyJavaProjects {
+}
